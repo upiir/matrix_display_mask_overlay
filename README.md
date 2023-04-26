@@ -7,6 +7,11 @@ Mask overlays for 8x8 matrix displays with Arduino using SMD stencils
 ![THUMB_arduino_matrix_display_overlay_mask](https://user-images.githubusercontent.com/117754156/234619541-1ea25b68-23e1-473b-ac3c-7bb52f1debb3.jpg)
 
 
+Small animation:
+
+![why_are_pixels_square_animation_600x600](https://user-images.githubusercontent.com/117754156/234625413-7a6d1072-38a3-49ad-b024-d97c99ae5165.gif)
+
+
 
 Screenshots from the video:
 
